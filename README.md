@@ -115,14 +115,6 @@
 </p>
  ---
 
-### 🏆 GitHub Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=RafatMohamed&theme=radical&no-bg=true&margin-w=10" />
-</p>
-
----
-
 ### 🤝 Let's Collaborate!
 
 I'm always open to working on exciting Flutter projects, contributing to open source, or teaming up to learn something new. If you're working on something cool — hit me up!
@@ -133,7 +125,7 @@ I'm always open to working on exciting Flutter projects, contributing to open so
 
 ### ☕ Support My Work (coming soon)
 
-If you like what I do and want to support my journey, feel free to connect — portfolio & support links coming soon!
+If you like what I do and want to support my journey, feel free to connect — support links coming soon!
 
 <!--
 <p align="center">
