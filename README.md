@@ -102,10 +102,11 @@
 
 ### 🔗 Quick Links
 
-- 📱 Portfolio (coming soon!)
-- 📧 Email: [raafatm2001@gmail.com](mailto:raafatm2001@gmail.com)
-- 🔗 LinkedIn: [raafat-mohamed](https://www.linkedin.com/in/raafat-mohamed/)
-- 🐙 GitHub: [RafatMohamed](https://github.com/RafatMohamed)
+-📱 Portfolio: Link to Portfolio
+
+-📧 Email: raafatm2001@gmail.com
+
+-🔗 LinkedIn: raafat-mohamed
 
 ---
 
