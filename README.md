@@ -24,6 +24,17 @@
 
 ---
 
+<p align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=RafatMohamed" />
+</p>
+ <h2 align="center">🚀 Junior Flutter Developer | Cross-platform Enthusiast</h2>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I+build+cross-platform+mobile+apps+with+Flutter;Clean+Architecture+%7C+REST+API+%7C+Firebase+%7C+Bloc;Let's+create+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
+</p>
+
+---
+
 ### 🛠 Tech Stack
 
 - **Languages:** Dart, C++, Python  
@@ -49,17 +60,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafatMohamed&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=RafatMohamed" />
-</p>
- <h2 align="center">🚀 Junior Flutter Developer | Cross-platform Enthusiast</h2>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I+build+cross-platform+mobile+apps+with+Flutter;Clean+Architecture+%7C+REST+API+%7C+Firebase+%7C+Bloc;Let's+create+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
