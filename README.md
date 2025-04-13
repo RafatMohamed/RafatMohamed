@@ -16,14 +16,10 @@
 
 ---
 
-- 🔭 I’m currently working at **DEY-creative innovative Hubs**
-- 🌱 I’m currently learning **Advanced Flutter, Clean Architecture, and Firebase**
-- 💼 Projects:
-  - [ToDo App](https://github.com/RafatMohamed/ToDo_App)
-  - [Scholar Chat App](https://github.com/RafatMohamed/Scholar_chat_App)
-  - [News App](https://github.com/RafatMohamed/news_app)
+- 🔭 I’m currently Studying at **DEY-creative innovative Hubs**
+- 🌱 I’m currently learning **Flutter Developer**
 - 👨‍🎓 Graduated from **Faculty of Computers and Informatics – Zagazig University** (2024)
-- 💬 Ask me about **Flutter, Bloc, Clean Architecture, Firebase, Dio**
+- 💬 Ask me about **anything**
 - 📫 How to reach me: **raafatm2001@gmail.com**
 
 ---
