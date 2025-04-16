@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raafat Mohamed </h1>
-<h3 align="center">A Junior Flutter Developer from Egypt 🇪🇬</h3>
+<h3 align="center">A Junior Flutter Developer from Mansoura, 🇪🇬 </h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/raafat-mohamed" target="_blank">
