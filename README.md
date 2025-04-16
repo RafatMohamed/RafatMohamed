@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Raafat Mohamed Ali</h1>
+<h1 align="center">Hi 👋, I'm Raafat Mohamed </h1>
 <h3 align="center">A Junior Flutter Developer from Egypt 🇪🇬</h3>
 
 <p align="center">
