@@ -16,7 +16,6 @@
 
 ---
 
-- 🔭 I’m currently Studying at **DEY-creative innovative Hubs**
 - 🌱 I’m currently learning **Flutter Developer**
 - 👨‍🎓 Graduated from **Faculty of Computers and Informatics – Zagazig University** (2024)
 - 💬 Ask me about **anything**
@@ -27,7 +26,7 @@
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=RafatMohamed" />
 </p>
- <h2 align="center">🚀 Junior Flutter Developer | Cross-platform Enthusiast</h2>
+ <h2 align="center">🚀 Junior Flutter Developer | Cross-platform </h2>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&multiline=true&width=600&height=60&lines=I+build+cross-platform+mobile+apps+with+Flutter;Clean+Architecture+%7C+REST+API+%7C+Firebase+%7C+Bloc;Let's+create+something+awesome+%F0%9F%9A%80" alt="Typing SVG" />
@@ -39,7 +38,7 @@
 
 - **Languages:** Dart, C++, Python  
 - **Mobile:** Flutter  
-- **State Management:** Bloc, Cubit  
+- **State Management:** Provider, Bloc, Cubit  
 - **Networking:** Dio, RESTful APIs, Firebase  
 - **Architecture:** Clean Architecture, MVVM  
 - **Tools:** Android Studio, VS Code, Git, GitHub  
@@ -68,16 +67,36 @@
 
 <table>
   <tr>
-    <td><a href="https://github.com/RafatMohamed/Scholar_chat_App"><b>📬 Scholar Chat App</b></a></td>
-    <td>Real-time chat app using Firebase + Flutter, with Bloc state management and responsive UI.</td>
+    <td>
+      <a href="https://github.com/RafatMohamed/Islami_app">
+        <b>📖 Islami App</b>
+      </a>
+    </td>
+    <td>
+      Islamic application built with Flutter, featuring API integration and responsive UI.
+    </td>
   </tr>
+
   <tr>
-    <td><a href="https://github.com/RafatMohamed/ToDo_App"><b>✅ ToDo App</b></a></td>
-    <td>Task management app with Clean Architecture, Dio, API integration, token handling, and more.</td>
+    <td>
+      <a href="https://github.com/RafatMohamed/newsApp">
+        <b>📰 News App</b>
+      </a>
+    </td>
+    <td>
+      Modern news app built with Flutter featuring API integration, dark/light themes, localization, and Provider.
+    </td>
   </tr>
-  <tr>
-    <td><a href="https://github.com/RafatMohamed/news_app"><b>📰 News App</b></a></td>
-    <td>Modern news app with real-time updates, dark/light themes, and solid Bloc architecture.</td>
+
+    <tr>
+    <td>
+      <a href="https://github.com/RafatMohamed/EventlyApp">
+        <b>🎉 Evently App</b>
+      </a>
+    </td>
+    <td>
+      Event management app built with Flutter using MVVM, HTTP, Firebase, Provider, dark/light themes, localization, and more.
+    </td>
   </tr>
 </table>
 
